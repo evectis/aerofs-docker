@@ -1,4 +1,6 @@
 # AeroFS Docker
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fevectis%2Faerofs-docker.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fevectis%2Faerofs-docker?ref=badge_shield)
+
 
 ## AeroFS on Docker with CoreOS
 
@@ -38,3 +40,7 @@ For more information on how to launch the AeroFS Private Cloud appliance using
 cloud-init, please consult our
 [support documentation](https://support.aerofs.com/hc/en-us/articles/204968364).
 For support please contact us at <support@aerofs.com>.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fevectis%2Faerofs-docker.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fevectis%2Faerofs-docker?ref=badge_large)
